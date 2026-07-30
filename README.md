@@ -1,2 +1,12 @@
 # python-interview-preparation
-python programs, data structures, algorithms, and mini projects.
+This repository contains python programs and interview practice.
+## Topics
+- Variables
+- Loops
+- Functions
+- OOP
+- File Handling
+- Exception Handling
+- Mini Projects
+
+Author: Farheen Anjum
